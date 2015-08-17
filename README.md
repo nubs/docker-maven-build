@@ -75,5 +75,9 @@ docker run -i -t --rm -v "$(pwd):/code" my-code
 docker run -i -t --rm -v "$(pwd):/code" my-code mvn install
 ```
 
+## License
+docker-maven-build is licensed under the MIT license.  See [LICENSE](LICENSE)
+for the full license text.
+
 [java]: http://java.com/
 [maven]: https://maven.apache.org/
